@@ -1,7 +1,6 @@
-# Entrega de implementación.
-## Desarrollo Web 
 
-## Sistema de Asistencia Vehicular
+
+# Sistema de Asistencia Vehicular
 
 ### Diseño desarrollado en ReactJS, Backend desarrollado en Express y MongoDB
 
