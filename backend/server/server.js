@@ -55,15 +55,15 @@ const PORT = process.env.PORT || 3001;
 
 mongoose.connect(MONGODB_URI)
   .then(() => {
-    console.log('✅ Conectado a MongoDB');
+    console.log('Conectado a MongoDB');
 
     app.listen(PORT, () => {
-      console.log(`🚀 Servidor corriendo en puerto ${PORT}`);
-      console.log(`📊 API disponible en: http://localhost:${PORT}/api`);
-      console.log(`🔍 Health check: http://localhost:${PORT}/api/health`);
+      console.log(`Servidor corriendo en puerto ${PORT}`);
+      console.log(`API disponible en: http://localhost:${PORT}/api`);
+      console.log(`Health check: http://localhost:${PORT}/api/health`);
     });
   })
   .catch(err => {
-    console.error('❌ Error conectando a MongoDB:', err);
+    console.error('Error conectando a MongoDB:', err);
     process.exit(1);
   });
