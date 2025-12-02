@@ -216,11 +216,17 @@ web-main/
 ## Autores
 
 - **Sergio Villegas**
-  ![Sergio Villegas](https://avatars.githubusercontent.com/u/78108240?v=4)
+
+
+  <img src="https://avatars.githubusercontent.com/u/78108240?v=4" width="200" alt="Sergio Villegas">
 
 - **Jaime Arriagada**
-  ![Jaime Arriagada](https://avatars.githubusercontent.com/u/163452202?v=4)
+
+  
+  <img src="https://avatars.githubusercontent.com/u/163452202?v=4" width="200" alt="Jaime Arriagada">
 
 ## Licencia
 
 ISC
+
+
