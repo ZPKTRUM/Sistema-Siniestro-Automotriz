@@ -7,7 +7,6 @@
 #### Integrantes Grupo 6
 
 - Jaime Arriagada
-- Lenin Reyes
 - Sergio Villegas
 
 # Instalar dependencias principales
